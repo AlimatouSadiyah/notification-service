@@ -1,0 +1,9 @@
+{
+  "name": "notification-service",
+  "version": "1.0.0",
+  "description": "service pour envoi de message et mail",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
