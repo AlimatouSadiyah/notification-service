@@ -2,7 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: notification-service
-  description: service pour envoi de message et mail
+  annotations:
+    github.com/project-slug: AlimatouSadiyah/notification-service
 spec:
   type: service
   lifecycle: production
